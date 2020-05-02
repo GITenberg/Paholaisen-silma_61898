@@ -1,5 +1,5 @@
 _repo: Paholaisen-silma_61898
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Lucifers øie. Finnish
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '51689'
     url: http://www.gutenberg.org/2009/agents/51689
     wikipedia: https://fi.wikipedia.org/wiki/W._F._Ilmoni
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Frich, Øvre Richter
@@ -28,6 +31,8 @@ creator:
     - https://no.wikipedia.org/wiki/%C3%98vre_Richter_Frich
     - https://en.wikipedia.org/wiki/%C3%98vre_Richter_Frich
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61898#Paholaisen-silma
 gutenberg_issued: '2020-04-26'
 gutenberg_type: Text
 identifiers:
