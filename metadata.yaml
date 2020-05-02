@@ -1,0 +1,47 @@
+_repo: Paholaisen-silma_61898
+_version: 0.0.1
+alternative_title: Lucifers øie. Finnish
+contributor:
+  translator:
+    agent_name: Ilmoni, W. F. (William Frithiof)
+    aliases:
+    - Ilmoni, William Frithiof
+    - W. F. I.
+    birthdate: 1880
+    deathdate: 1932
+    gutenberg_agent_id: '51689'
+    url: http://www.gutenberg.org/2009/agents/51689
+    wikipedia: https://fi.wikipedia.org/wiki/W._F._Ilmoni
+creator:
+  author:
+    agent_name: Frich, Øvre Richter
+    aliases:
+    - Frich, Gert Øvre Richter
+    - Richter Frich, Øvre
+    - Richter-Frich, Øvre
+    - Frich, Ovre Richter
+    birthdate: 1872
+    deathdate: 1945
+    gutenberg_agent_id: '49743'
+    url: http://www.gutenberg.org/2009/agents/49743
+    wikipedia:
+    - https://no.wikipedia.org/wiki/%C3%98vre_Richter_Frich
+    - https://en.wikipedia.org/wiki/%C3%98vre_Richter_Frich
+description: ''
+gutenberg_issued: '2020-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61898'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'Fjeld, Jonas (Fictitious character) -- Fiction'
+- !lcsh 'Norwegian fiction -- Translations into Finnish'
+- !lcsh 'Adventure stories'
+- !lcc 'PT'
+- GITenberg
+title: Paholaisen silmä
+url: http://www.gutenberg.org/ebooks/61898
